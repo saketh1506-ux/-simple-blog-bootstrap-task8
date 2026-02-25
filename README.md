@@ -53,10 +53,3 @@ To build a simple blog webpage including:
 - 2 cards on medium screens
 - 1 card on small screens
 
-
----
-
-## 👨‍💻 Author
-
-Your Name  
-Web Development Internship Task Submission
